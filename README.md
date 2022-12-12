@@ -1,7 +1,7 @@
 # Task-02 @TXON
 
 #### Task 2: Calculator
-#### Language used : HTML , CSS
+#### Language used : HTML, CSS, Javascript
 #### IDE: Microsoft Visual Studio code
 
 ## Screenshort:
